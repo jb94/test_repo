@@ -16,3 +16,5 @@ do
 done
 
 (echo Testujemy błędy --> $0: Jakiś error) 2> bledy
+
+#Dodajmy komentarz do pliku, a co!
