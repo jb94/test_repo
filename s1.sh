@@ -28,3 +28,5 @@ echo "sum2 = $sum2")
 #Dodajmy komentarz do pliku, a co!
 
 #Dodajmy komentarz do pliku, a co!
+
+#A jeszcze jeden, a co!
