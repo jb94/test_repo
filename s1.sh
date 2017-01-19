@@ -1,5 +1,7 @@
 #! /bin/bash
 
+#hihi
+
 echo "Testujmy!"
 if [ $1 = "witaj" ]
 then
